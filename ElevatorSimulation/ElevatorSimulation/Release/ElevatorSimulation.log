@@ -1,0 +1,11 @@
+﻿  ElevatorSimulation.cpp
+  ElevatorSimulationDlg.cpp
+  VisualBuilding.cpp
+  VisualElevator.cpp
+c:\users\dhanu\downloads\elevatorsimulation-1124\elevatorsimulation\elevatorsimulation\Elevator.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\dhanu\downloads\elevatorsimulation-1124\elevatorsimulation\elevatorsimulation\Elevator.cpp(74): warning C4018: '<': signed/unsigned mismatch
+  VisualFloor.cpp
+  VisualRider.cpp
+  Generating Code...
+  ElevatorSimulation.vcxproj -> C:\Users\dhanu\Downloads\ElevatorSimulation-1124\ElevatorSimulation\ElevatorSimulation\.\Release\ElevatorSimulation.exe
+  ElevatorSimulation.vcxproj -> .\Release/ElevatorSimulation.pdb (Full PDB)
